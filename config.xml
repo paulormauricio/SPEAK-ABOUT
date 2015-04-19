@@ -20,6 +20,7 @@
   <preference name="android-installLocation" value="auto"/>
   <preference name="SplashScreen" value="images/screen/android/screen-ldpi-portrait.png" />
   <preference name="SplashScreenDelay" value="4000" />
+  <preference name="keepAwake" value="true" />
   <gap:plugin name="nl.x-services.plugins.insomnia" />
   <gap:plugin name="org.apache.cordova.camera"/>
   <gap:plugin name="org.apache.cordova.device-orientation" />
